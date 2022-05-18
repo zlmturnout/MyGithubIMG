@@ -5,6 +5,8 @@
 - use in cdn:  
   https://cdn.jsdelivr.net/gh/zlmturnout/MyGithubIMG/BlogImg/insert-img-here
 
-## test image
+## Test image
+
+image_url=https://cdn.jsdelivr.net/gh/zlmturnout/MyGithubIMG/BlogImg/SHCovide19-datatable0517.jpg
 
 ![test_image](https://cdn.jsdelivr.net/gh/zlmturnout/MyGithubIMG/BlogImg/SHCovide19-datatable0517.jpg)
